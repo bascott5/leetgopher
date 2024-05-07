@@ -1,0 +1,10 @@
+<div hx-boost="true">
+    {% for post in site.posts %}
+        <hr>
+        <a href="{{ post.url }}"><div class="mx-14 my-20">
+            <h2 class="text-5xl">{{ post.title }}</h2>
+            <h3>{{ post.date }}</h3>
+        </div></a>
+        <hr>
+    {% endfor %}
+</div>

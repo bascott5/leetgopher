@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <script src="/htmx.min.js"></script>
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+    {% include header.html %}
+    <main>
+        <section class="w-full p-28 bg-gray-800 text-center text-white">
+            <h1 class="w-4/6 mx-auto my-3 text-5xl "><span class="text-sky-300">Go's</span> not a well-used language in the LeetCode community. Let's change that.</h1>
+            <p class="w-3/6 mx-auto my-0 text-2xl indent-0">One LeetCode question at a time...</p>
+        </section>
+        <section class="w-9/12 mx-auto mt-14 mb-24 text-white text-m">
+          <p>Hello World! I recently found out that I really, really enjoy coding in <span class="text-sky-300">Go</span> and was surprised that the language didn't see much use in competitive programming. While I understand the fact that its standard library lacks the many regularly-used data structures for it, I can't help but see its potential.</p>
+          <p>It shares a lot of the syntax of <span class="text-yellow-300">Python</span> but has the speed of <span class="text-orange-400">Java</span>, while being generally faster to use. Also, it's just fun to program with it. When writing code against the clock, Go makes it easy to get a solution out fast.</p>
+          <p>Since it's hard for me to find many solutions to competitive programming problems and interview questions written in <span class="text-sky-300">Go</span>, I thought I'd share my own implementations. I hope my solutions are helpful!</p>
+        </section>
+    </main>
+  </body>
+</html>

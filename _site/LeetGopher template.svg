@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="LeetGopher template.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.5"
+     inkscape:cx="377"
+     inkscape:cy="372"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="103.39923"
+       y="283.99243"
+       width="813.24136"
+       height="178.7847"
+       id="rect16" />
+    <rect
+       x="103.39923"
+       y="283.99243"
+       width="915.0664"
+       height="393.61344"
+       id="rect15" />
+    <rect
+       x="104.9974"
+       y="358.06219"
+       width="913.46823"
+       height="494.23016"
+       id="rect14" />
+    <rect
+       x="370.2092"
+       y="166.73573"
+       width="164.17927"
+       height="79.696703"
+       id="rect10" />
+    <linearGradient
+       id="linearGradient9"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="radialGradient10"
+       cx="148.5"
+       cy="8.9993486"
+       fx="148.5"
+       fy="8.9993486"
+       r="148.89687"
+       gradientTransform="matrix(1.2979982,0,0,0.58327282,-44.252728,3.7502731)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="radialGradient17"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2979982,0,0,0.58327282,-44.252728,195.35468)"
+       cx="148.5"
+       cy="8.9993486"
+       fx="148.5"
+       fy="8.9993486"
+       r="148.89687" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#020317;fill-opacity:1;stroke-width:0.79375"
+       id="rect9"
+       width="297"
+       height="192.0013"
+       x="0"
+       y="17.998697" />
+    <g
+       id="g19">
+      <rect
+         style="fill:#0f172a;fill-opacity:1;stroke-width:0.79375;stroke:url(#radialGradient10);stroke-opacity:1"
+         id="rect1"
+         width="297"
+         height="17.998697"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#0f172a;fill-opacity:1;stroke:url(#radialGradient17);stroke-width:0.79375;stroke-opacity:1"
+         id="rect17"
+         width="297"
+         height="44.345234"
+         x="0"
+         y="165.25792" />
+    </g>
+    <g
+       id="g6"
+       transform="matrix(1.0954705,0,0,1.0954705,-27.014983,-17.738409)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90468px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#ffffff;fill-opacity:1;stroke-width:0.735701"
+         x="109.07336"
+         y="26.174965"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#ffffff;fill-opacity:1;stroke-width:0.735701"
+           x="109.07336"
+           y="26.174965">Solutions</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90468px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#ffffff;fill-opacity:1;stroke-width:0.735701"
+         x="136.54234"
+         y="26.174965"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#ffffff;fill-opacity:1;stroke-width:0.735701"
+           x="136.54234"
+           y="26.174965">Articles</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90468px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#ffffff;fill-opacity:1;stroke-width:0.735701"
+         x="160.43819"
+         y="26.174965"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#ffffff;fill-opacity:1;stroke-width:0.735701"
+           x="160.43819"
+           y="26.174965">Wiki</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.72258px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#67e8f9;fill-opacity:1;stroke-width:1.30839"
+       x="39.782959"
+       y="11.263045"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';fill:#67e8f9;fill-opacity:1;stroke-width:1.30839"
+         x="39.782959"
+         y="11.263045">LeetGopher</tspan></text>
+    <rect
+       style="fill:#374151;fill-opacity:1;stroke-width:0.924705"
+       id="rect8-2"
+       width="13.545126"
+       height="8.5467205"
+       x="244.80345"
+       y="4.7259893"
+       ry="4.2733603"
+       rx="3.5155976" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.615509"
+       id="path8"
+       cx="248.16707"
+       cy="8.9993486"
+       r="4.2735" />
+    <rect
+       style="fill:#030712;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       id="rect11"
+       width="29.689394"
+       height="31.000879"
+       x="-46.578564"
+       y="13.272848" />
+    <rect
+       style="fill:#0f172a;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       id="rect12"
+       width="29.689394"
+       height="27.978794"
+       x="-46.578564"
+       y="56.603096" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#020317;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-opacity:1"
+       x="248.67563"
+       y="-8.2736959"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:0.79375"
+         x="248.67563"
+         y="-8.2736959">night/day mode</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text14"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';white-space:pre;shape-inside:url(#rect14);display:inline;fill:#9ca3af;fill-opacity:1;stroke:none;stroke-width:3;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';white-space:pre;shape-inside:url(#rect15);display:inline;fill:#9ca3af;fill-opacity:1;stroke:none;stroke-width:3;stroke-opacity:1" />
+    <g
+       id="g20"
+       transform="translate(19.65488)">
+      <text
+         xml:space="preserve"
+         transform="matrix(1.2152815,0,0,1.2152815,-423.71913,-162.63916)"
+         id="text10"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';white-space:pre;shape-inside:url(#rect10);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-opacity:1"><tspan
+           x="370.20898"
+           y="184.75142"
+           id="tspan9"><tspan
+             style="font-weight:bold"
+             id="tspan7">How To Hello World</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.27534px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.941302;stroke-opacity:1"
+         x="27.357712"
+         y="75.139664"
+         id="text13"><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           style="fill:#9ca3af;fill-opacity:1;stroke-width:0.941302"
+           x="27.357712"
+           y="75.139664">Bennett Scott - 01/01/2001</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,0,17.252059)"
+         id="text16"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';white-space:pre;shape-inside:url(#rect16);display:inline;fill:#9ca3af;fill-opacity:1;stroke:none;stroke-width:3;stroke-opacity:1"><tspan
+           x="103.39844"
+           y="308.01234"
+           id="tspan11"><tspan
+             style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
+             id="tspan10">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</tspan></tspan><tspan
+           x="103.39844"
+           y="346.07926"
+           id="tspan15"><tspan
+             style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
+             id="tspan14">aaaaaaa </tspan></tspan><tspan
+           x="103.39844"
+           y="384.14619"
+           id="tspan17"><tspan
+             style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
+             id="tspan16">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</tspan></tspan><tspan
+           x="103.39844"
+           y="422.21311"
+           id="tspan22"><tspan
+             style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
+             id="tspan18">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</tspan></tspan><tspan
+           x="103.39844"
+           y="486.79749"
+           id="tspan24"><tspan
+             dx="0 14.830748 14.830748 14.830746 14.83075 14.83075 14.830742 14.83075 14.83075 7.3698044 19.257835 14.83075 14.83075 7.3958435 7.3697968 7.3958435 14.83075 14.83075 7.3697968 7.3958435 14.83075 13.333344 13.333344 7.369812 6.080719 13.333374 7.3697815 19.257843 8.8802185 14.83075 14.83075"
+             style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
+             id="tspan23">aaaaaaaa what the fuck is wrong</tspan></tspan></text>
+    </g>
+    <g
+       id="g18"
+       transform="translate(20.278015,1.3875929)">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.710862;stroke-opacity:1"
+         id="path17"
+         cx="113.83365"
+         cy="196.45505"
+         r="3.3050077" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.710862;stroke-opacity:1"
+         id="circle17"
+         cx="128.22198"
+         cy="196.45505"
+         r="3.3050077" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.710862;stroke-opacity:1"
+         id="circle18"
+         cx="142.61032"
+         cy="196.45505"
+         r="3.3050077" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.72258px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#67e8f9;fill-opacity:1;stroke-width:1.30839"
+       x="39.782959"
+       y="11.263045"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#f6cc2f;fill-opacity:1;stroke-width:1.30839"
+         x="39.782959"
+         y="11.263045">Leet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#f6cc2f;fill-opacity:1;stroke-width:0.79375"
+       x="278.15704"
+       y="32.304729"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="stroke-width:0.79375"
+         x="278.15704"
+         y="32.304729" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33633px;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#000000;fill-opacity:1;stroke-width:1.00056"
+       x="307.18311"
+       y="54.579437"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="fill:#000000;fill-opacity:1;stroke-width:1.00056"
+         x="307.18311"
+         y="54.579437">80% margin</tspan></text>
+  </g>
+</svg>
