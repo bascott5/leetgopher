@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.5"
-     inkscape:cx="377"
-     inkscape:cy="372"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-295.39386"
+     inkscape:cy="459.61941"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -230,9 +230,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';white-space:pre;shape-inside:url(#rect10);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-opacity:1"><tspan
            x="370.20898"
            y="184.75142"
-           id="tspan9"><tspan
+           id="tspan11"><tspan
              style="font-weight:bold"
-             id="tspan7">How To Hello World</tspan></tspan></text>
+             id="tspan10">How To Hello World</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.27534px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.941302;stroke-opacity:1"
@@ -251,30 +251,30 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';white-space:pre;shape-inside:url(#rect16);display:inline;fill:#9ca3af;fill-opacity:1;stroke:none;stroke-width:3;stroke-opacity:1"><tspan
            x="103.39844"
            y="308.01234"
-           id="tspan11"><tspan
-             style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
-             id="tspan10">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</tspan></tspan><tspan
-           x="103.39844"
-           y="346.07926"
            id="tspan15"><tspan
              style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
-             id="tspan14">aaaaaaa </tspan></tspan><tspan
+             id="tspan14">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</tspan></tspan><tspan
            x="103.39844"
-           y="384.14619"
+           y="346.07926"
            id="tspan17"><tspan
              style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
-             id="tspan16">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</tspan></tspan><tspan
+             id="tspan16">aaaaaaa </tspan></tspan><tspan
            x="103.39844"
-           y="422.21311"
+           y="384.14619"
            id="tspan22"><tspan
              style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
              id="tspan18">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</tspan></tspan><tspan
            x="103.39844"
-           y="486.79749"
+           y="422.21311"
            id="tspan24"><tspan
+             style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
+             id="tspan23">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</tspan></tspan><tspan
+           x="103.39844"
+           y="486.79749"
+           id="tspan33"><tspan
              dx="0 14.830748 14.830748 14.830746 14.83075 14.83075 14.830742 14.83075 14.83075 7.3698044 19.257835 14.83075 14.83075 7.3958435 7.3697968 7.3958435 14.83075 14.83075 7.3697968 7.3958435 14.83075 13.333344 13.333344 7.369812 6.080719 13.333374 7.3697815 19.257843 8.8802185 14.83075 14.83075"
              style="font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#ffffff"
-             id="tspan23">aaaaaaaa what the fuck is wrong</tspan></tspan></text>
+             id="tspan32">aaaaaaaa what the fuck is wrong</tspan></tspan></text>
     </g>
     <g
        id="g18"
@@ -300,13 +300,13 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:8.72258px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#67e8f9;fill-opacity:1;stroke-width:1.30839"
+       style="font-size:8.72258px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#fde047;fill-opacity:1;stroke-width:1.30839"
        x="39.782959"
        y="11.263045"
        id="text20"><tspan
          sodipodi:role="line"
          id="tspan20"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#f6cc2f;fill-opacity:1;stroke-width:1.30839"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#fde047;fill-opacity:1;stroke-width:1.30839"
          x="39.782959"
          y="11.263045">Leet</tspan></text>
     <text
@@ -331,5 +331,61 @@
          style="fill:#000000;fill-opacity:1;stroke-width:1.00056"
          x="307.18311"
          y="54.579437">80% margin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.72258px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#67e8f9;fill-opacity:1;stroke-width:1.30839"
+       x="-109.74993"
+       y="122.47254"
+       id="text6-5"
+       inkscape:export-filename="assets/static/logo.svg"
+       inkscape:export-xdpi="192.62727"
+       inkscape:export-ydpi="192.62727"><tspan
+         sodipodi:role="line"
+         id="tspan6-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';fill:#67e8f9;fill-opacity:1;stroke-width:1.30839"
+         x="-109.74993"
+         y="122.47254">LeetGopher</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.72258px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#fde047;fill-opacity:1;stroke-width:1.30839"
+       x="-109.74993"
+       y="122.47254"
+       id="text20-5"
+       inkscape:export-filename="assets/static/logo.png"
+       inkscape:export-xdpi="192.62727"
+       inkscape:export-ydpi="192.62727"><tspan
+         sodipodi:role="line"
+         id="tspan20-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#fde047;fill-opacity:1;stroke-width:1.30839"
+         x="-109.74993"
+         y="122.47254">Leet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.3447px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#67e8f9;fill-opacity:1;stroke-width:3.05172"
+       x="-110.38552"
+       y="144.21103"
+       id="text6-5-2"
+       inkscape:export-filename="assets/static/favicon.svg"
+       inkscape:export-xdpi="192.62727"
+       inkscape:export-ydpi="192.62727"><tspan
+         sodipodi:role="line"
+         id="tspan6-3-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';fill:#67e8f9;fill-opacity:1;stroke-width:3.05172"
+         x="-110.38552"
+         y="144.21103">LG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.3447px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#fde047;fill-opacity:1;stroke-width:3.05172"
+       x="-110.38552"
+       y="144.21103"
+       id="text20-5-0"
+       inkscape:export-filename="assets/static/logo.png"
+       inkscape:export-xdpi="192.62727"
+       inkscape:export-ydpi="192.62727"><tspan
+         sodipodi:role="line"
+         id="tspan20-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#fde047;fill-opacity:1;stroke-width:3.05172"
+         x="-110.38552"
+         y="144.21103">L</tspan></text>
   </g>
 </svg>

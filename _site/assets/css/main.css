@@ -566,6 +566,9 @@ video {
 .w-4\/6 {
   width: 66.666667%;
 }
+.w-44 {
+  width: 11rem;
+}
 .w-9\/12 {
   width: 75%;
 }
@@ -582,6 +585,10 @@ video {
 .bg-slate-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(15 23 42 / var(--tw-bg-opacity));
+}
+.object-scale-down {
+  -o-object-fit: scale-down;
+     object-fit: scale-down;
 }
 .p-24 {
   padding: 6rem;
