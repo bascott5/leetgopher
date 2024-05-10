@@ -73,114 +73,31 @@ pre {
 }
 
 code {
-    color: white;
+  color: white;
+}
+
+p > code {
+  font-size: large;
+  background-color: rgb(30 41 59);
+  padding: 2px 3px;
+}
+
+img {
+  width: 75%;
+  margin: 0 auto;
 }
 
 [hidden] {
     display: none;
 }
-  
-.highlight .c, .highlight .ch, .highlight .cd, .highlight .cpf {
-  color: #75715e;
-  font-style: italic;
-}
-
-.highlight .cm {
-  color: #75715e;
-  font-style: italic;
-}
-
-.highlight .c1 {
-  color: #75715e;
-  font-style: italic;
-}
-
-.highlight .cp {
-  color: #75715e;
-  font-weight: bold;
-}
-
-.highlight .cs {
-  color: #75715e;
-  font-weight: bold;
-  font-style: italic;
-}
-
-.highlight .err {
-  color: #960050;
-  background-color: #1e0010;
-}
-
-.highlight .gi {
-  color: #ffffff;
-  background-color: #324932;
-}
-
-.highlight .gd {
-  color: #ffffff;
-  background-color: #493131;
-}
-
-.highlight .ge {
-  color: #000000;
-  font-style: italic;
-}
-
-.highlight .gr {
-  color: #aa0000;
-}
-
-.highlight .gt {
-  color: #aa0000;
-}
-
-.highlight .gh {
-  color: #999999;
-}
-
-.highlight .go {
-  color: #888888;
-}
-
-.highlight .gp {
-  color: #555555;
-}
-
-.highlight .gs {
-  font-weight: bold;
-}
-
-.highlight .gu {
-  color: #aaaaaa;
-}
 
 .highlight .k, .highlight .kv {
-  color: #66d9ef;
-  font-weight: bold;
-}
-
-.highlight .kc {
-  color: #66d9ef;
-  font-weight: bold;
-}
-
-.highlight .kd {
-  color: #66d9ef;
-  font-weight: bold;
-}
-
-.highlight .kp {
-  color: #66d9ef;
-  font-weight: bold;
-}
-
-.highlight .kr {
-  color: #66d9ef;
+  color: plum;
   font-weight: bold;
 }
 
 .highlight .kt {
-  color: #66d9ef;
+  color: greenyellow;
   font-weight: bold;
 }
 
@@ -226,6 +143,11 @@ code {
 
 .highlight .s, .highlight .dl {
   color: #e6db74;
+}
+
+.highlight .n {
+  color: cyan;
+  font-weight: bold;
 }
 
 @media screen and (min-width: 480px) {

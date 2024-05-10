@@ -17,7 +17,7 @@
 </nav>
     <main class="w-9/12 mx-auto my-10 mb-40">
       <h1>Palindrome Number</h1>
-      <h3>2024-05-08 00:00:00 -0400</h3>
+      <h3>05/08/2024</h3>
       <p>A palindrome is a string or number that is the exact same when reversed. In this LeetCode problem, we are tasked with finding whether the inputted integer is a palindrome or not.</p>
 
 <p>For our base case, we can determine that any negative value will automatically not be a palindrome, since there can never be two negative values. For example, the reversed version of <code class="language-plaintext highlighter-rouge">-121</code> would be <code class="language-plaintext highlighter-rouge">121-</code> which wouldn’t be a palindrome.</p>
@@ -25,6 +25,10 @@
 <p>While we could convert the input from an integer to a string to reverse it that way, an easier way would be to get the reversed integer mathematically. In order to do this, we must loop through the length of the input using a while loop.</p>
 
 <p>For every loop, we will grab the last digit of the input using <code class="language-plaintext highlighter-rouge">temp % 10</code>, because the decimal place value of <code class="language-plaintext highlighter-rouge">temp / 10</code> will always be the last digit of the input number. We can then use <code class="language-plaintext highlighter-rouge">reversed * 10</code> to increase the length of <code class="language-plaintext highlighter-rouge">reversed</code> and add the value of <code class="language-plaintext highlighter-rouge">temp / 10</code> to it so that the digit is in the oppsoite place of where it was in the input.</p>
+
+<p>Here is an illustration of <code class="language-plaintext highlighter-rouge">reversed</code> after every loop in the while loop…</p>
+
+<p><img src="/assets/static/f1.svg" alt="Figure 1" /></p>
 
 <p>Afterwards, the temporary copy of the input is lowered by one decimal place. This continues until the length of both the input and reversed are the same. We know that if the values of both the reversed and input are the same, then the input is a palindrome, which would fit with its definition.</p>
 
