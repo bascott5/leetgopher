@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<script src="/htmx.min.js"></script>
+<title>Palindrome Number - LeetGopher</title>
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="shortcut icon" href="/assets/static/favicon.svg" type="image/svg">
+    <title>Palindrome Number - LeetGopher</title>
+  </head>
+  <body>
+    <nav class="bg-slate-900 w-full mx-full m-auto">
+    <ul class="w-9/12 mx-auto shadow-xl border-solid" hx-boost="true">
+        <a href="/"><img class="inline-block mb-3 md:mb-1.5 mr-4 md:mr-1 w-44 md:w-32 align-middle text-white text-2xl object-scale-down" src="/assets/static/logo.png" alt="LeetGopher" loading="eager"></a>
+        <li class="inline-block p-4 md:p-2 text-white text-2xl md:text-xl"><a href="/solutions">Solutions</a></li>
+    </ul>
+</nav>
+    <main class="w-9/12 mx-auto my-10 mb-40">
+      <h1>Palindrome Number</h1>
+      <p>A palindrome is a string or number that is the exact same when reversed. In this LeetCode problem, we are tasked with finding whether the inputted integer is a palindrome or not.</p>
+
+<p>For our base case, we can determine that any negative value will automatically not be a palindrome, since there can never be two negative values. For example, the reversed version of <code class="language-plaintext highlighter-rouge">-121</code> would be <code class="language-plaintext highlighter-rouge">121-</code> which wouldn’t be a palindrome.</p>
+
+<p>While we could convert the input from an integer to a string to reverse it that way, an easier way would be to get the reversed integer mathematically. In order to do this, we must loop through the length of the input using a while loop.</p>
+
+<p>For every loop, we will grab the last digit of the input using <code class="language-plaintext highlighter-rouge">temp % 10</code>, because the decimal place value of <code class="language-plaintext highlighter-rouge">temp / 10</code> will always be the last digit of the input number. We can then use <code class="language-plaintext highlighter-rouge">reversed * 10</code> to increase the length of <code class="language-plaintext highlighter-rouge">reversed</code> and add the value of <code class="language-plaintext highlighter-rouge">temp / 10</code> to it so that the digit is in the opposite place of where it was in the input.</p>
+
+<p>Here is an illustration of <code class="language-plaintext highlighter-rouge">reversed</code> after every loop in the while loop…</p>
+
+<p><img src="/assets/static/f1.svg" alt="Figure 1" /></p>
+
+<p>Afterwards, the temporary copy of the input is lowered by one decimal place. This continues until the length of both the input and reversed are the same. We know that if the values of both the reversed and input are the same, then the input is a palindrome, which would fit with its definition.</p>
+
+<p>My implementation is shown below…</p>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">func</span> <span class="n">isPalindrome</span><span class="p">(</span><span class="n">x</span> <span class="kt">int</span><span class="p">)</span> <span class="kt">bool</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="n">x</span> <span class="o">&lt;</span> <span class="m">0</span> <span class="p">{</span>
+        <span class="k">return</span> <span class="no">false</span>
+    <span class="p">}</span>
+
+    <span class="k">var</span> <span class="n">reversed</span> <span class="kt">int</span>
+    <span class="n">temp</span> <span class="o">:=</span> <span class="n">x</span>
+
+    <span class="k">for</span> <span class="n">temp</span> <span class="o">&gt;</span> <span class="m">0</span> <span class="p">{</span>
+        <span class="n">reversed</span> <span class="o">=</span> <span class="n">reversed</span> <span class="o">*</span> <span class="m">10</span> <span class="o">+</span> <span class="p">(</span><span class="n">temp</span> <span class="o">%</span> <span class="m">10</span><span class="p">)</span>
+        <span class="n">temp</span> <span class="o">/=</span> <span class="m">10</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="n">reversed</span> <span class="o">==</span> <span class="n">x</span>
+<span class="p">}</span>
+</code></pre></div></div>
+<p><strong>Time Complexity: O(n)</strong></p>
+
+    </main>
+  </body>
+</html>
