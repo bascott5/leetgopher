@@ -28,7 +28,7 @@ p {
   color: white;
   font-size: x-large;
   margin: 2rem 0;
-  line-break: loose;
+  line-height: 36px;
 }
 
 p > a {
@@ -67,6 +67,7 @@ ul > li {
 pre {
   background-color: rgb(30 41 59);
   word-wrap: break-word;
+  overflow-x: scroll;
   width: 90%;
   margin: 2rem auto;
   padding: 2rem;
@@ -110,10 +111,27 @@ img {
   font-weight: bold;
 }
 
-@media screen and (min-width: 768px) {
-
+@media screen and (max-width: 1024px) {
+  img {
+    width: 95%;
+  }
 }
 
-@media screen and (min-width: 640px) {
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 3rem;
+  }
 
+  p {
+    font-size: large;
+    line-height: 28px;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  pre {
+    width: 100%;
+  }
 }
