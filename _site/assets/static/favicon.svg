@@ -7,31 +7,58 @@
    viewBox="0 0 21.030136 14.404208"
    version="1.1"
    id="svg1"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.1514122"
+     inkscape:cx="45.909741"
+     inkscape:cy="13.394385"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1" />
   <g
      id="layer1"
-     transform="translate(109.27292,-130.0055)">
+     transform="translate(109.27292,-130.0055)"
+     style="fill:#bae6fd;fill-opacity:1"
+     inkscape:export-filename="favicon.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <text
        xml:space="preserve"
-       style="font-size:20.3447px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#67e8f9;fill-opacity:1;stroke-width:3.05172"
+       style="font-size:20.3447px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#bae6fd;fill-opacity:1;stroke-width:3.05172"
        x="-110.38552"
        y="144.21103"
        id="text6-5-2"><tspan
          id="tspan6-3-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';fill:#67e8f9;fill-opacity:1;stroke-width:3.05172"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow Bold';fill:#bae6fd;fill-opacity:1;stroke-width:3.05172"
          x="-110.38552"
          y="144.21103">LG</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20.3447px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#fde047;fill-opacity:1;stroke-width:3.05172"
+       style="font-size:20.3447px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#bae6fd;fill-opacity:1;stroke-width:3.05172"
        x="-110.38552"
        y="144.21103"
        id="text20-5-0"><tspan
          id="tspan20-6-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#fde047;fill-opacity:1;stroke-width:3.05172"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow';fill:#bae6fd;fill-opacity:1;stroke-width:3.05172"
          x="-110.38552"
          y="144.21103">L</tspan></text>
   </g>
