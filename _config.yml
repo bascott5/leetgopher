@@ -1,3 +1,4 @@
+domain: "bascott5.github.io"
 url: "https://bascott5.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/leetgopher/" # the subpath of your site, e.g. /blog
 title: "LeetGopher" # the name of your site, e.g. ACME Corp.
